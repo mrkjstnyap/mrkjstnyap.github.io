@@ -1,6 +1,7 @@
 ---
 title: A Reliable Future for Technology-Enabled Learning and Beyond with Obsidian
 date: 2023-10-30
+hidden: true
 categories:
 - Technology in Education
 tags: [Education, Technology]
@@ -8,9 +9,10 @@ author: mj
 image: https://imgur.com/awS3DPU.png
 ---
 
-Looking back during the 2020 pandemic, one of the biggest challenges I had (aside from the raging global health crisis and collective crippling mental health) was feeling helpless in being able to properly process information as a student. My tried-and-true methods of putting thoughts and lessons on paper and annotating journal articles on physical copies were largely disrupted as I had to mostly rely on PDFs and videos. It was a struggle to fully grasp and appreciate the lessons delivered through this new online format. The strewn-about PDFs, mp4s, and Google Classroom interactions felt disconnected and overwhelming. 
 
-My usual methods wouldn't translate well when solely relying on my laptop and phone. I had no reliable system of note taking that would allow me to adapt to the setup. Slow,y I to realized how my methods were outdated and had flaws not suited for the digital age, such as not having a way to quickly retrieve notes and connect my thoughts. This dilemma was what eventually led me to discover and come to appreciate Obsidian.  
+Looking back during the 2020 pandemic, one of the biggest challenges I had (aside from the raging global health crisis) was feeling helpless in being able to properly process information as a student. My tried-and-true methods of putting thoughts and lessons on paper and annotating journal articles on physical copies were largely disrupted as I had to mostly rely on PDFs and videos. It was a struggle to fully grasp and appreciate the lessons delivered through this new online format. The strewn-about PDFs, mp4s, and Google Classroom interactions felt disconnected and overwhelming. 
+
+My usual methods wouldn't translate well when solely relying on my laptop and phone. I had no reliable system of note taking that would allow me to adapt to the setup. Slowly I realized how my methods were outdated and had flaws that were not suited for the digital age, such as not having a way to quickly retrieve notes and connect my thoughts. This dilemma was what eventually led me to discover and come to appreciate Obsidian.  
 
 To start, it would be best if we first delve into how we process information and the difference between note taking using a pen and note taking through our laptops and other devices. Secondly, I believe Obsidian as a tool for technology-enabled learning can partially remedy the struggles I mentioned above and with enough practice, it can become a versatile and powerful tool for students and for documenting one's work.
 
@@ -59,7 +61,7 @@ I could go on with more recent studies, however, the discussion remains the same
 
 Two issues are presented here. First, the reliance on laptops and the internet is now commonplace, however, certain advantages are still awarded through longhand writing notes, especially towards conceptual knowledge. This becomes a problem when individuals are expected to digest an increasing multitude of information, learning materials, and projects using digital tools.  Yet, when the tools we have for learning and collaboration are not optimized for conceptual knowledge nor optimized to fit with our existing note taking methods then it can easily become overwhelming leading to a huge cesspool of randomly strewn about information.
 
-Secondly, there is a need to rethink of a system that goes outside of the classroom. Note taking is not just a practice for students but an important skill for lifelong learning that allows individuals to practice documenting their work for future endeavors . Note takig is not simply an act of copying information but it involves the methodical evaluation and synthesizing of information that is both useful and valuable. That system must allow for our own personal "knowledge on demand" system and must be designed to be collaborative and simple to use.
+Secondly, there is a need to rethink of a system that goes outside of the classroom. Note taking is not just a practice for students but an important skill for lifelong learning that allows individuals to practice documenting their work for future endeavors. Note takig is not simply an act of copying information but it involves the methodical evaluation and synthesizing of information that is both useful and valuable. That system must allow for our own personal "knowledge on demand" system and must be designed to be collaborative and simple to use.
 
 ## Toward Better Technology-Enabled Learning
 
@@ -69,7 +71,7 @@ I believe the internet is worth mentioning here as a good amount of learning now
 
 Several tools and software have been made to address the issue of note taking in a digital environment. Software such Evernote, OneNote, Apple Notes, Notion, and various bookmarking apps have been developed. All these tools have their advantages and disadvantages, but I will be focusing on Obsidian.
 
-[Obsidian](https://obsidian.md/) is a writing app that uses simple markdown (.md) files as notes. When using Obsidian for the first time you will be prompted to create a **Vault** (i.e., a folder in your system). This folder will hold all your notes and sub folders. Every note that you create can be accessible via the interface in Obsidian. One thing that already stands out is that you do not have to connect to the internet to be able to use all its features. All your files are saved locally. You own your data and you have access to whatever information you have stored in your vault without needing to go through additional third party software and services. 
+[Obsidian](https://obsidian.md/) is a writing app that uses simple markdown (.md) files as notes. When using Obsidian for the first time you will be prompted to create a **Vault** (i.e., a folder in your system). This folder will hold all your notes and sub folders. Every note that you create is accessible via the interface in Obsidian without having to go through your folders and switching between windows. One thing that already stands out is that you do not have to connect to the internet to be able to use all of the features as all your files are saved locally. You own your data and you have access to whatever information you have stored in your vault without needing to go through additional third party software and services. 
 
 Perhaps two of its most important features are its ability to link notes with bi-directional linking and its added flexibility to design a rich personal knowledge system that utilizes metadata like a Zettelkasten system.
 
