@@ -1,7 +1,7 @@
 ---
 title: A Reliable Future for Technology-Enabled Learning and Beyond with Obsidian
 date: 2023-10-30
-hidden: true
+hidden: false
 categories:
 - Technology in Education
 tags: [Education, Technology]
