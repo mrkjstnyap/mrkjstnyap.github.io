@@ -11,7 +11,7 @@ order: 4
 ---
   <div class="card-container">
     <div class="about-card">
-      <img src= "https://scontent-mnl1-2.xx.fbcdn.net/v/t1.6435-9/30715709_2079368962342167_5374821515592204288_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeEFt39AfM1Hbprkaoh2yh_RG9udDfx0Nm8b250N_HQ2b1Na4mksZ_zKuVdkPq2FBdg1KWOK_sGiWFBb6IfroR62&_nc_ohc=TUMst1z66OAAX-nDvlC&_nc_ht=scontent-mnl1-2.xx&oh=00_AfBja8f5Aa9eaGlmC7jdgyzlRcsQoffM2UrWrdm22sUQ6A&oe=65671CCF" alt="Mark Justine Yap">
+      <img src= "/assets/logo.png" alt="Mark Justine Yap">
       <div class="name">Mark Justine Yap</div>
       <div class="description">yapmrkjstn@gmail.com
       </div>
