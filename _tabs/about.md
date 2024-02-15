@@ -3,9 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+**Exploring knowledge management, data analysis, and data storytelling.**
   <div class="about-us-description">
-    <p> Hello and welcome to my personal blog 👋. </p>
-        <p> This blog was made to contain and share my thoughts on data analysis, policy, and technology for education. Some posts are synced with CMJ Ink Well Project. For other projects and dets check out the links below! </p>
+        <p> A digital garden to share my intimate relationship with data and information. A combination of data and design can propel stories further and drive compelling narratives of growth.</p>
   </div>
 
 ---
