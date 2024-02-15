@@ -11,7 +11,7 @@ order: 4
 ---
   <div class="card-container">
     <div class="about-card">
-      <img src= "/assets/logo.png" alt="Mark Justine Yap">
+      <img src= "/assets/profile.png" alt="Mark Justine Yap">
       <div class="name">Mark Justine Yap</div>
       <div class="description">yapmrkjstn@gmail.com
       </div>
