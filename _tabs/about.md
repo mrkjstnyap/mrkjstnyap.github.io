@@ -9,6 +9,7 @@ order: 1
   </div>
 
 ---
+
   <div class="card-container">
     <div class="about-card">
       <img src= "/assets/profile.png" alt="Mark Justine Yap">
@@ -17,6 +18,7 @@ order: 1
       </div>
       <div class="description">Other profiles and related work:
       </div>
+
  <div class="social-links">
     <a class="social-link" href="https://www.linkedin.com/in/mark-justine-yap-089250216/">LinkedIn</a>
     <a class="social-link" href="https://github.com/mrkjstnyap">Github</a>

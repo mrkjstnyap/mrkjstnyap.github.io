@@ -35,6 +35,14 @@ layout: compress
   font-weight: normal;
 }
 
+.social-links a {
+      font-size: 12px; /* Set the font size to 14 pixels */
+      font-weight: bold; /* Make the text bold */
+      margin-right: 10px; /* Add some spacing between links (adjust as needed) */
+      text-decoration: none; /* Remove underline by default */
+      color: #8953cb; /* Set the link color (adjust to your preference) */
+      pointer-events: auto;
+    }
 
 
       /* Style for the about me card container */
@@ -47,8 +55,8 @@ layout: compress
       border-radius: 20px;
       text-align: center;
       display: inline-block;
-      transition: transform 0.3s, box-shadow 0.3s;
       user-select: none;
+      pointer-events: none;
     }
 
     /* Style for the circular image */
@@ -61,7 +69,8 @@ layout: compress
       border-radius: 50%; /* Makes the image circular */
       border: 2px inset #c0c0c0b4;
       margin: 0 auto; /* Center the image horizontally */
-      object-fit: cover; /* This property maintains the aspect ratio for square images */
+      object-fit: cover;
+      pointer-events: none;
     }
 
     /* Style for the name */
@@ -81,13 +90,6 @@ layout: compress
       user-select: none; /* Make the description not selectable */
     }
 
-    .social-links a {
-      font-size: 12px; /* Set the font size to 14 pixels */
-      font-weight: bold; /* Make the text bold */
-      margin-right: 10px; /* Add some spacing between links (adjust as needed) */
-      text-decoration: none; /* Remove underline by default */
-      color: #8953cb; /* Set the link color (adjust to your preference) */
-    }
 
     /* Add this class to create two cards side by side */
     .card-container {
@@ -101,20 +103,6 @@ layout: compress
     display: block; /* Stack cards vertically on screens 768px or smaller */
     }
     }     
-
-    /* Add a hover effect for one of the cards */
-    .about-card:hover {
-        transform: scale(1.2); /* Enlarge the card */
-        box-shadow: 0 0 18px rgba(172, 172, 172, 0.324); /* Add a glow effect */
-        border-radius: 15px;
-    }
-
-/* Add an underline to the name on hover */
-      .about-card .name:hover {
-        text-decoration: underline;
-    }
-
-
     </style>
   </head>
 
