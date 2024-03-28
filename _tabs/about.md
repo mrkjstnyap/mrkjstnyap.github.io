@@ -1,11 +1,11 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
-**Exploring knowledge management, data analysis, and data storytelling.**
+**Exploring meaningful data and design.**
   <div class="about-us-description">
-        <p> A digital garden to share my intimate relationship with data and design. Linking people with data and design to help shape meaningful stories and drive compelling narratives for action.</p>
+        <p> This is a digital garden hub for my projects. Linking people with data and design to shape compelling narratives.</p>
   </div>
 
 ---
