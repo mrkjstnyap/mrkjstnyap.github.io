@@ -1,10 +1,10 @@
 ---
-title: A Reliable Future for Technology-Enabled Learning and Beyond with Obsidian
+title: Technology-Enabled Note Taking with Obsidian
 date: 2023-10-30
 hidden: false
 categories:
 - Essays
-tags: [Education, Technology]
+tags: [technology, education]
 author: mj
 image: https://imgur.com/awS3DPU.png
 ---

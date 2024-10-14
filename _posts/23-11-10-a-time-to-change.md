@@ -3,8 +3,7 @@ title: An Unlived Past in Ruins
 date: 2023-11-10
 hidden: false
 categories:
-- MJ
-- Reflections
+-  Blog
 tags: [time, philosophy]
 author: mj
 image: https://imgur.com/JKSWpOa.png
