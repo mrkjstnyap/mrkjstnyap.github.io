@@ -3,9 +3,9 @@
 icon: fas fa-info-circle
 order: 1
 ---
-**Exploring meaningful data and design.**
+**Exploring systems of people.**
   <div class="about-us-description">
-        <p> This is a digital garden hub for my projects. Linking people with data and design to shape compelling narratives.</p>
+        <p> This is my digital garden. I attempt to link people with data, design, culture, and stories to create engrossing narratives. Essays, commentaries, data viz, and write-ups </p>
   </div>
 
 ---
