@@ -22,6 +22,6 @@ order: 1
  <div class="social-links">
     <a class="social-link" href="https://www.linkedin.com/in/mark-justine-yap-089250216/">LinkedIn</a>
     <a class="social-link" href="https://github.com/mrkjstnyap">Github</a>
-        <a class="social-link" href="https://cmj-inkwell.com/">CMJ Ink Well</a>
+        <a class="social-link" href="https://mrkjstnyap.github.io/about/">Substack (WIP)</a>
   </div>
     </div>
